@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.pdb
